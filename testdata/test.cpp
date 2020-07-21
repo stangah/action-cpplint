@@ -11,7 +11,8 @@ public:
     int getA() const { return m_a; }
 private:
     int m_a;
-};
+
+    };
 
 int main(int, const char**)
 {
